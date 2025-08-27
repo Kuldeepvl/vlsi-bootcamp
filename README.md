@@ -1,2 +1,2 @@
 # vlsi-bootcamp
-Personal VLSI Bootcamp: SystemVerilog | UVM | RTL to GDS | Projects &amp; Notes (2025–2027)
+“B.E. VLSI Design & Technology (2025) — Building RTL, Verification, and Physical Design Skills”
